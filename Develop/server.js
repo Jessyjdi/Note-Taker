@@ -1,5 +1,5 @@
 // contains all the server code
-const PORT = process.env.PORT || 8001;
+const PORT = process.env.PORT || 4001; // receiving error for PORT 3001 so using 4001
 // set up express library
 const express = require ('express');
 // set up server
