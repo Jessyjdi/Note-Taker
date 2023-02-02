@@ -71,7 +71,9 @@ jessyjosephine.mscit@gmail.com
 
 ## GitHub
 
-Github: https://github.com/Jessyjdi
+https://github.com/Jessyjdi/Note-Taker
 
 ## Heroku
+
+https://whispering-plateau-88606.herokuapp.com/notes
 
